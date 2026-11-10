@@ -1,0 +1,27 @@
+# Keil µVision build output and per-user files
+Objects/
+Listings/
+DebugConfig/
+RTE/
+*.o
+*.d
+*.crf
+*.lst
+*.axf
+*.map
+*.htm
+*.dep
+*.iex
+*.lnp
+*.plg
+*.tra
+*.bak
+*.uvguix.*
+*.uvoptx
+*.scvd
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

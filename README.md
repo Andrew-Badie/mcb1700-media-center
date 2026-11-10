@@ -47,6 +47,10 @@ docs/
 firmware/         media center source (added milestone by milestone)
 ```
 
+## AI assistance
+
+The lab write-ups and design documents were drafted with AI assistance from my lab code, reports and project plan. The lab work, measurements and design decisions are my own, and the media center firmware will be written by me.
+
 ## Academic note
 
 This is coursework for COE 718, which is still running this term. To respect academic integrity:
